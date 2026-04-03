@@ -1,0 +1,3 @@
+## QA‑Team Version (Technical Summary)
+
+Regression Suite for Sprint 18 completed: 50 total tests, 44 passed, 6 failed (88% pass rate). Failures map directly to open defects in Login (Critical) and Checkout (Major) modules. No additional flaky patterns observed, and test runtimes remain consistent (~1280 sec). Primary risk areas involve authentication and the checkout pipeline, both of which block core user journeys. Recommend prioritizing fixes for BUG‑1021 and BUG‑1047, followed by targeted re‑runs of impacted test clusters. Also advisable to increase negative‑path coverage around Login, as failure trends suggest fragile input validation.

@@ -1,0 +1,3 @@
+## Management Version (One‑Paragraph Summary)
+
+Sprint‑18 regression testing shows an 88% pass rate, but the remaining 6 failures expose critical risks in the Login and Checkout modules, including one Critical and one Major defect. Although the overall stability is good, the impacted areas are essential to user access and revenue flow. To mitigate business risk, we recommend prioritizing fixes for the identified defects and scheduling an expedited regression cycle once they are resolved. No performance or execution‑time concerns were observed.
