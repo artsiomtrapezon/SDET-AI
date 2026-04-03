@@ -1,0 +1,461 @@
+[
+  {
+    "orderId": 100001,
+    "customerName": "Amelia Clarke",
+    "email": "amelia.clarke@example.com",
+    "phoneNumber": "+44-7788-123-456",
+    "items": [
+      { "name": "Bluetooth Speaker", "quantity": 2, "price": 45.99 },
+      { "name": "Noise Cancelling Headphones", "quantity": 1, "price": 199.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 291.97
+  },
+  {
+    "orderId": 100002,
+    "customerName": "Omar Hussein",
+    "email": "omar.hussein@example.com",
+    "phoneNumber": "+44-7900-555-123",
+    "items": [
+      { "name": "Ergonomic Office Chair", "quantity": 1, "price": 349.50 }
+    ],
+    "status": "Pending",
+    "totalAmount": 349.50
+  },
+  {
+    "orderId": 100003,
+    "customerName": "Sofia Rodriguez",
+    "email": "sofia.rodriguez@example.com",
+    "phoneNumber": "+44-7533-321-987",
+    "items": [
+      { "name": "Organic Olive Oil", "quantity": 5, "price": 12.20 },
+      { "name": "French Press Coffee Maker", "quantity": 1, "price": 24.99 }
+    ],
+    "status": "Delivered",
+    "totalAmount": 86.99
+  },
+  {
+    "orderId": 100004,
+    "customerName": "Chang Kim",
+    "email": "chang.kim@example.com",
+    "phoneNumber": "+44-7455-212-101",
+    "items": [
+      { "name": "Kitchen Knife Set", "quantity": 1, "price": 79.99 },
+      { "name": "Bamboo Cutting Board", "quantity": 2, "price": 15.49 }
+    ],
+    "status": "Cancelled",
+    "totalAmount": 110.97
+  },
+  {
+    "orderId": 100005,
+    "customerName": "Aisha Patel",
+    "email": "aisha.patel@example.com",
+    "phoneNumber": "+44-7701-891-032",
+    "items": [
+      { "name": "Yoga Mat", "quantity": 3, "price": 25.00 },
+      { "name": "Reusable Water Bottle", "quantity": 2, "price": 14.50 }
+    ],
+    "status": "Returned",
+    "totalAmount": 104.0
+  },
+  {
+    "orderId": 100006,
+    "customerName": "Liam O'Connor",
+    "email": "liam.oconnor@example.com",
+    "phoneNumber": "+44-7022-988-665",
+    "items": [
+      { "name": "Historic Fiction Book", "quantity": 1, "price": 13.95 }
+    ],
+    "status": "Payment Error",
+    "totalAmount": 13.95
+  },
+  {
+    "orderId": 100007,
+    "customerName": "Chloe Williams",
+    "email": "chloe.williams@example.com",
+    "phoneNumber": "+44-7399-100-230",
+    "items": [
+      { "name": "Running Shoes", "quantity": 2, "price": 89.99 },
+      { "name": "Sports Socks Pack", "quantity": 5, "price": 6.99 }
+    ],
+    "status": "On Hold",
+    "totalAmount": 196.93
+  },
+  {
+    "orderId": 100008,
+    "customerName": "Noah Khan",
+    "email": "noah.khan@example.com",
+    "phoneNumber": "+44-7688-213-144",
+    "items": [
+      { "name": "Smart Light Bulb (4-pack)", "quantity": 1, "price": 59.99 }
+    ],
+    "status": "Delayed",
+    "totalAmount": 59.99
+  },
+  {
+    "orderId": 100009,
+    "customerName": "Priya Singh",
+    "email": "priya.singh@example.com",
+    "phoneNumber": "+44-7422-314-998",
+    "items": [
+      { "name": "Electric Kettle", "quantity": 1, "price": 39.99 },
+      { "name": "Tea Infuser Set", "quantity": 1, "price": 12.50 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 52.49
+  },
+  {
+    "orderId": 100010,
+    "customerName": "Nadia Petrova",
+    "email": "nadia.petrova@example.com",
+    "phoneNumber": "+44-7555-667-210",
+    "items": [
+      { "name": "Smartphone", "quantity": 1, "price": 899.00 },
+      { "name": "Phone Case", "quantity": 1, "price": 19.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 918.99
+  },
+  {
+    "orderId": 100011,
+    "customerName": "Jacob Brown",
+    "email": "jacob.brown@example.com",
+    "phoneNumber": "+44-7877-368-553",
+    "items": [
+      { "name": "Desk Lamp", "quantity": 0, "price": 29.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 0.00
+  },
+  {
+    "orderId": 100012,
+    "customerName": "Lina Müller",
+    "email": "lina.muller@example.com",
+    "phoneNumber": "+44-7983-821-444",
+    "items": [
+      { "name": "Board Game", "quantity": 1, "price": 39.99 },
+      { "name": "Puzzle 1000pcs", "quantity": 1, "price": 14.99 }
+    ],
+    "status": "Returned",
+    "totalAmount": 54.98
+  },
+  {
+    "orderId": 100013,
+    "customerName": "Miguel Alvarez",
+    "email": "miguel.alvarez@example.com",
+    "phoneNumber": "+44-7200-880-112",
+    "items": [
+      { "name": "Garden Hose", "quantity": -1, "price": 24.99 },
+      { "name": "Plant Fertilizer", "quantity": 2, "price": 9.99 }
+    ],
+    "status": "Cancelled",
+    "totalAmount": -5.01
+  },
+  {
+    "orderId": 100014,
+    "customerName": "Keiko Tanaka",
+    "email": "keiko.tanaka@example.com",
+    "phoneNumber": "+44-7801-222-909",
+    "items": [
+      { "name": "Rice Cooker", "quantity": 1, "price": 69.99 }
+    ],
+    "status": "On Hold",
+    "totalAmount": 69.99
+  },
+  {
+    "orderId": 100015,
+    "customerName": "David Smith",
+    "email": "david.smith@example.com",
+    "phoneNumber": "+44-7922-334-776",
+    "items": [
+      { "name": "4K Monitor", "quantity": 2, "price": 329.99 }
+    ],
+    "status": "Payment Error",
+    "totalAmount": 659.98
+  },
+  {
+    "orderId": 100016,
+    "customerName": "Femi Adeyemi",
+    "email": "femi.adeyemi@example.com",
+    "phoneNumber": "+44-7033-450-290",
+    "items": [
+      { "name": "Bluetooth Headset", "quantity": 1, "price": 0.00 },
+      { "name": "USB-C Cable", "quantity": 3, "price": 4.99 }
+    ],
+    "status": "Delayed",
+    "totalAmount": 14.97
+  },
+  {
+    "orderId": 100017,
+    "customerName": "Mia Rossi",
+    "email": "mia.rossi@example.com",
+    "phoneNumber": "+44-7704-212-330",
+    "items": [
+      { "name": "Designer Handbag", "quantity": 1, "price": 1299.00 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 1299.00
+  },
+  {
+    "orderId": 100018,
+    "customerName": "Eduardo Garcia",
+    "email": "eduardo.garcia@example.com",
+    "phoneNumber": "+44-7600-987-654",
+    "items": [
+      { "name": "Gaming Console", "quantity": 1, "price": 499.99 },
+      { "name": "Game Title", "quantity": 2, "price": 59.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 619.97
+  },
+  {
+    "orderId": 100019,
+    "customerName": "Hanna Jansen",
+    "email": "hanna.jansen@example.com",
+    "phoneNumber": "+44-7944-551-220",
+    "items": [
+      { "name": "Photo Printer", "quantity": 1, "price": 149.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 149.99
+  },
+  {
+    "orderId": 100020,
+    "customerName": "Zara Khan",
+    "email": "zara.khan@example.com",
+    "phoneNumber": "+44-7555-123-567",
+    "items": [
+      { "name": "Perfume 50ml", "quantity": 1, "price": 69.99 },
+      { "name": "Skincare Set", "quantity": 1, "price": 59.99 }
+    ],
+    "status": "Cancelled",
+    "totalAmount": 129.98
+  },
+  {
+    "orderId": 100021,
+    "customerName": "Tariq Al Amiri",
+    "email": "tariq.alamiri@example.com",
+    "phoneNumber": "+44-7433-773-889",
+    "items": [
+      { "name": "Camping Tent", "quantity": 1, "price": 129.99 },
+      { "name": "Sleeping Bag", "quantity": 2, "price": 59.99 }
+    ],
+    "status": "Delayed",
+    "totalAmount": 249.97
+  },
+  {
+    "orderId": 100022,
+    "customerName": "Anna Kowalski",
+    "email": "anna.kowalski@example.com",
+    "phoneNumber": "+44-7811-991-202",
+    "items": [
+      { "name": "Running Watch", "quantity": 1, "price": 199.99 }
+    ],
+    "status": "Returned",
+    "totalAmount": 199.99
+  },
+  {
+    "orderId": 100023,
+    "customerName": "Samuel Mensah",
+    "email": "samuel.mensah@example.com",
+    "phoneNumber": "+44-7399-707-301",
+    "items": [
+      { "name": "Smart Thermostat", "quantity": 1, "price": 249.99 },
+      { "name": "Wireless Camera", "quantity": 2, "price": 89.99 }
+    ],
+    "status": "Payment Error",
+    "totalAmount": 429.97
+  },
+  {
+    "orderId": 100024,
+    "customerName": "Hyejin Kim",
+    "email": "hyejin.kim@example.com",
+    "phoneNumber": "+44-7733-223-549",
+    "items": [
+      { "name": "Stationery Set", "quantity": 1, "price": 24.99 },
+      { "name": "Planner Notebook", "quantity": 1, "price": 19.99 }
+    ],
+    "status": "On Hold",
+    "totalAmount": 44.98
+  },
+  {
+    "orderId": 100025,
+    "customerName": "Benjamin Lee",
+    "email": "benjamin.lee@example.com",
+    "phoneNumber": "+44-7922-644-301",
+    "items": [
+      { "name": "Childrens Scooter", "quantity": 1, "price": 89.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 89.99
+  },
+  {
+    "orderId": 100026,
+    "customerName": "Amina Nasser",
+    "email": "amina.nasser@example.com",
+    "phoneNumber": "+44-7722-887-110",
+    "items": [
+      { "name": "Silk Scarf", "quantity": 2, "price": 34.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 69.98
+  },
+  {
+    "orderId": 100027,
+    "customerName": "Juan Pérez",
+    "email": "juan.perez@example.com",
+    "phoneNumber": "+44-7666-100-210",
+    "items": [
+      { "name": "Drone", "quantity": 1, "price": 599.99 },
+      { "name": "Extra Batteries", "quantity": 3, "price": 19.99 }
+    ],
+    "status": "Delayed",
+    "totalAmount": 659.96
+  },
+  {
+    "orderId": 100028,
+    "customerName": "Chantal Duval",
+    "email": "chantal.duval@example.com",
+    "phoneNumber": "+44-7901-250-998",
+    "items": [
+      { "name": "French Press", "quantity": 1, "price": 24.99 },
+      { "name": "Espresso Cups", "quantity": 4, "price": 9.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 64.95
+  },
+  {
+    "orderId": 100029,
+    "customerName": "Naveen Reddy",
+    "email": "naveen.reddy@example.com",
+    "phoneNumber": "+44-7045-160-808",
+    "items": [
+      { "name": "Laptop Stand", "quantity": 1, "price": 39.99 },
+      { "name": "Wireless Keyboard", "quantity": 1, "price": 54.99 }
+    ],
+    "status": "Cancelled",
+    "totalAmount": 94.98
+  },
+  {
+    "orderId": 100030,
+    "customerName": "Kate Smith",
+    "email": "kate.smith@example.com",
+    "phoneNumber": "+44-7855-300-666",
+    "items": [
+      { "name": "Children's Puzzle", "quantity": 10, "price": 6.50 },
+      { "name": "Coloring Book", "quantity": 5, "price": 3.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 89.45
+  },
+  {
+    "orderId": 100031,
+    "customerName": "Shaun Murphy",
+    "email": "shaun.murphy@example.com",
+    "phoneNumber": "+44-7666-770-101",
+    "items": [
+      { "name": "Graphics Card", "quantity": 1, "price": 1299.99 },
+      { "name": "PC Case", "quantity": 1, "price": 99.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 1399.98
+  },
+  {
+    "orderId": 100032,
+    "customerName": "Eunji Park",
+    "email": "eunji.park@example.com",
+    "phoneNumber": "+44-7311-111-222",
+    "items": [
+      { "name": "Fitness Tracker", "quantity": 2, "price": 129.99 }
+    ],
+    "status": "Returned",
+    "totalAmount": 259.98
+  },
+  {
+    "orderId": 100033,
+    "customerName": "Ali Al-Harbi",
+    "email": "ali.alharbi@example.com",
+    "phoneNumber": "+44-7800-450-187",
+    "items": [
+      { "name": "Arabic Coffee Set", "quantity": 1, "price": 59.99 }
+    ],
+    "status": "Payment Error",
+    "totalAmount": 59.99
+  },
+  {
+    "orderId": 100034,
+    "customerName": "Maria Silva",
+    "email": "maria.silva@example.com",
+    "phoneNumber": "+44-7444-554-889",
+    "items": [
+      { "name": "Digital Camera", "quantity": 1, "price": 549.99 },
+      { "name": "Camera Bag", "quantity": 1, "price": 34.99 }
+    ],
+    "status": "On Hold",
+    "totalAmount": 584.98
+  },
+  {
+    "orderId": 100035,
+    "customerName": "Oliver Evans",
+    "email": "oliver.evans@sample.invalid",
+    "phoneNumber": "0044-7122-000-333",
+    "items": [
+      { "name": "Smartwatch", "quantity": 1, "price": 199.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 199.99
+  },
+  {
+    "orderId": 100036,
+    "customerName": "Kai Tan",
+    "email": "kai.tan@example.com",
+    "phoneNumber": "+44-7122-333-"   ,
+    "items": [
+      { "name": "Garden Planter", "quantity": 1, "price": 49.99 }
+    ],
+    "status": "Delayed",
+    "totalAmount": 49.99
+  },
+  {
+    "orderId": 100037,
+    "customerName": "Marta Nowak",
+    "email": "marta.nowak@example.com",
+    "phoneNumber": "+44-7988-555-211",
+    "items": [],
+    "status": "Shipped",
+    "totalAmount": 0.00
+  },
+  {
+    "orderId": 100038,
+    "customerName": "No email",
+    "email": "",
+    "phoneNumber": "+44-7922-400-123",
+    "items": [
+      { "name": "Portable Charger", "quantity": 1, "price": 29.99 }
+    ],
+    "status": "Pending",
+    "totalAmount": 29.99
+  },
+  {
+    "orderId": 100039,
+    "customerName": "Julian Svensson",
+    "email": "julian.svensson@example.com",
+    "phoneNumber": "+44-7733-123-778",
+    "items": [
+      { "name": "Dining Set", "quantity": 1, "price": 4999.99 }
+    ],
+    "status": "Shipped",
+    "totalAmount": 4999.99
+  },
+  {
+    "orderId": 100040,
+    "customerName": "Leila Haddad",
+    "email": "leila.haddad@example.com",
+    "phoneNumber": "+44-7444-111-900",
+    "items": [
+      { "name": "Luxury Bedding", "quantity": 5, "price": 249.99 }
+    ],
+    "status": "On Hold",
+    "totalAmount": 1249.95
+  }
+]
